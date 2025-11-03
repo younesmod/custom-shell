@@ -1,3 +1,7 @@
+# System update & upgrade
+alias aptup='sudo apt update && sudo apt -y upgrade'
+alias aptgetup='sudo apt-get update && sudo apt-get -y upgrade'
+
 # Navigation
 alias ..='cd ..'
 alias ...='cd ../..'
