@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Oh My Bash Installation Script with enhanced error handling
+# Created by Younes Modaresian (github.com/younesmod)
 
 set -e
 
@@ -85,3 +86,8 @@ main() {
 
 # Run main function
 main "$@"
+
+# Display summary
+echo ""
+echo "=== Installation Complete ==="
+echo "👤 Author: Younes Modaresian (github.com/younesmod)"
