@@ -5,7 +5,7 @@
 
 ZSHRC_FILE="$HOME/.zshrc"
 BACKUP_FILE="$HOME/.zshrc.backup.$(date +%Y%m%d_%H%M%S)"
-ZSHEDIT_FILE="zshedit"
+ZSHEDIT_FILE="./Shell-Config/zshedit"
 
 echo "=== Installing zshedit configurations to .zshrc ==="
 echo "👤 Created by: Younes Modaresian (github.com/younesmod)"

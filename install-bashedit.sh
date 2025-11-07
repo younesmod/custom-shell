@@ -5,7 +5,7 @@
 
 BASHRC_FILE="$HOME/.bashrc"
 BACKUP_FILE="$HOME/.bashrc.backup.$(date +%Y%m%d_%H%M%S)"
-BASHEDIT_FILE="bashedit"
+BASHEDIT_FILE="./Shell-Config/bashedit"
 
 echo "=== Installing bashedit configurations to .bashrc ==="
 echo "👤 Created by: Younes Modaresian (github.com/younesmod)"
