@@ -17,9 +17,8 @@ A collection of essential aliases and functions to supercharge your shell experi
 - Project Overview
 - Quick Start
 - Usage
+- Features
 - Project Structure
-- Notes
-- Sources
 
 ### <b>🎯 Project Overview</b>
 
