@@ -14,11 +14,11 @@ A collection of essential aliases and functions to supercharge your shell experi
 </div>
 
 ## <b>Table Of Content</b>
-- [Project Overview](https://github.com/younesmod/shell-boost?tab=readme-ov-file#-project-overview)
-- [Quick Start](https://github.com/younesmod/shell-boost?tab=readme-ov-file#-quick-start)
-- [Usage](https://github.com/younesmod/shell-boost?tab=readme-ov-file#-usage)
-- [Features](https://github.com/younesmod/shell-boost?tab=readme-ov-file#-features)
-- [Project Structure](https://github.com/younesmod/shell-boost?tab=readme-ov-file#-project-structure)
+- [Project Overview](#-project-overview)
+- [Quick Start](#-quick-start)
+- [Usage](#-usage)
+- [Features](#-features)
+- [Project Structure](#-project-structure)
 
 ### <b>🎯 Project Overview</b>
 
